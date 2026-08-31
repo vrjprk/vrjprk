@@ -88,9 +88,21 @@ Desktop vision-language assistant — a CNN classifies handwritten digits, a Nai
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vrjprk&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vrjprk&show_icons=true&theme=default&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrjprk&layout=compact&hide_border=true" />
 </p>
+
+<!--
+If the cards above show a broken image or "Something went wrong," the public
+github-readme-stats instance is rate-limited (this is common — it's shared by
+everyone on GitHub). Fixes, in order of effort:
+  1. Just refresh in a few minutes — it's usually transient.
+  2. Swap the host above to a community mirror, e.g.:
+     https://github-readme-stats-sigma-black.vercel.app
+  3. Deploy your own free instance on Vercel (5 min):
+     https://github.com/anuraghazra/github-readme-stats#deploy-on-vercel
+     then swap the host in the two <img> URLs above to your own domain.
+-->
 
 ---
 
